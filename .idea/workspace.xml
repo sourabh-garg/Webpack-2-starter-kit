@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebd6d3c5-5a1b-4bd5-b784-f3d18745dd6c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eslintrc" afterPath="$PROJECT_DIR$/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/build.js" afterPath="$PROJECT_DIR$/tools/build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/chalkConfig.js" afterPath="$PROJECT_DIR$/tools/chalkConfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/prodServer.js" afterPath="$PROJECT_DIR$/tools/prodServer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/srcServer.js" afterPath="$PROJECT_DIR$/tools/srcServer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/startMessage.js" afterPath="$PROJECT_DIR$/tools/startMessage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.dev.js" afterPath="$PROJECT_DIR$/webpack.config.dev.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.prod.js" afterPath="$PROJECT_DIR$/webpack.config.prod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
@@ -50,6 +41,16 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,6 +84,7 @@
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/files/index.js" />
         <option value="$PROJECT_DIR$/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -159,7 +161,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Company_site" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="$PROJECT_DIR$/node_modules/eslint" />
@@ -251,16 +253,16 @@
       <option name="presentableId" value="Default" />
       <updated>1481786440564</updated>
       <workItem from="1481786441836" duration="13043000" />
-      <workItem from="1481807197358" duration="72000" />
+      <workItem from="1481807197358" duration="723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13115000" />
+    <option name="totallyTimeSpent" value="13766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -423,6 +425,14 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
