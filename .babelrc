@@ -1,0 +1,24 @@
+{
+  "presets": [],
+   "env": {
+     "development": {
+       "presets": [
+         "latest"
+       ]
+     },
+     "production": {
+       "presets": [
+         ["latest", {
+           "es2015": {
+             "modules": false
+           }
+         }]
+       ]
+     },
+     "test": {
+       "presets": [
+         "latest"
+       ]
+     }
+   }
+}
